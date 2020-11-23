@@ -15,3 +15,12 @@ Importanat to note it has MIT License.
 It is Open Source. Any changes can be made.
 
 I tried to predict Average Rating of a Game vs all other relevant variables.
+
+here, I used 
+Numpy
+Pandas
+Seaborn 
+Matplotlib
+sklearn
+
+I performed Linear Regression, Random Forest Regression and Regression with Neural networks for predictions on google CoLab.
