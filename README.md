@@ -13,3 +13,5 @@ Use scrapy to first run spider.py with scrapy runspider spider.py -o items.csv. 
 
 Importanat to note it has MIT License.
 It is Open Source. Any changes can be made.
+
+I tried to predict Average Rating of a Game vs all other relevant variables.
